@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2BmgsybnSRbKpKO2BU5SGf23GqpZG85wGPX1dumouAc=",
+  "Source": "office-logistics-managament-cqrs-second-service",
+  "BasePath": "_content/office-logistics-managament-cqrs-second-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
